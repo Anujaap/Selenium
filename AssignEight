@@ -1,0 +1,6 @@
+Difference between get() & navigate() method.
+
+ The main difference between get() and navigate() is, both are performing the same task
+ but with the use of navigate() you can move back() or forward() in your session's history.
+ But you cannot do the same with get()
+ Navigate() is faster than get() because navigate() does not wait for the page to load fully or completely.
