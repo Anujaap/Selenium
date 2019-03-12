@@ -1,0 +1,12 @@
+What are locators & types of locators in selenium
+
+Selenium uses what is called locators to find and match the elements of your page that it needs to interact with. There are 8 locators strategies included in Selenium:
+
+    Identifier
+    Id
+    Name
+    Link
+    DOM
+    XPath
+    CSS
+    UI-element
