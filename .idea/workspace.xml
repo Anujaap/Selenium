@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcbb6c6f-85e5-40b6-be8e-138d438762c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/scripts/AssignEight" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scripts/AssignEle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scripts/AssignFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scripts/AssignFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scripts/AssignNine" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scripts/AssignOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scripts/AssignSev" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scripts/AssignSix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scripts/AssignTen" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scripts/AssignThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scripts/AssignTwe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scripts/AssignTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scripts/Assignfour1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scripts/LaunchChrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/AssignThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/AssignThree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,33 +24,46 @@
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1750" />
+          <entry key="JAVA" value="1759" />
           <entry key="PLAIN_TEXT" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="19" />
+          <entry key="JAVA" value="20" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/scripts/LaunchChrome.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/scripts/AssignThree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,7 +84,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/scripts/AssignThree.java" />
         <option value="$PROJECT_DIR$/src/scripts/Assignfour1.java" />
         <option value="$PROJECT_DIR$/src/scripts/AssignFour.java" />
         <option value="$PROJECT_DIR$/src/scripts/AssignTwo.java" />
@@ -103,6 +98,7 @@
         <option value="$PROJECT_DIR$/src/scripts/AssignEle.java" />
         <option value="$PROJECT_DIR$/src/scripts/AssignTwe.java" />
         <option value="$PROJECT_DIR$/src/scripts/LaunchChrome.java" />
+        <option value="$PROJECT_DIR$/src/scripts/AssignThree.java" />
       </list>
     </option>
   </component>
@@ -124,7 +120,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -153,12 +148,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552361012466" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552366538117" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/selenium-server-standalone-3.141.59.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -176,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LaunchChrome">
+  <component name="RunManager" selected="Application.AssignThree">
     <configuration name="AssignEle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="scripts.AssignEle" />
       <module name="Selenium" />
@@ -190,8 +186,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AssignFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scripts.AssignFive" />
+    <configuration name="AssignSix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scripts.AssignSix" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
@@ -203,8 +199,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AssignSix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scripts.AssignSix" />
+    <configuration name="AssignThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scripts.AssignThree" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
@@ -243,19 +239,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AssignFive" />
       <item itemvalue="Application.AssignSix" />
       <item itemvalue="Application.AssignEle" />
       <item itemvalue="Application.AssignTwe" />
       <item itemvalue="Application.LaunchChrome" />
+      <item itemvalue="Application.AssignThree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AssignThree" />
         <item itemvalue="Application.LaunchChrome" />
         <item itemvalue="Application.AssignTwe" />
         <item itemvalue="Application.AssignEle" />
         <item itemvalue="Application.AssignSix" />
-        <item itemvalue="Application.AssignFive" />
       </list>
     </recent_temporary>
   </component>
@@ -275,16 +271,18 @@
       <workItem from="1552328829040" duration="258000" />
       <workItem from="1552330199171" duration="251000" />
       <workItem from="1552357753355" duration="1274000" />
+      <workItem from="1552365797928" duration="719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21470000" />
+    <option name="totallyTimeSpent" value="22189000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27134877" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27613726" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -300,7 +298,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32952693" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32952693" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -322,13 +320,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/scripts/AssignThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/scripts/Assignfour1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -425,7 +416,17 @@
     <entry file="file://$PROJECT_DIR$/src/scripts/LaunchChrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scripts/AssignThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

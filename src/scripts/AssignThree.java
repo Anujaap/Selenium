@@ -11,5 +11,6 @@ public class AssignThree {
         driver.get("https://www.google.com");
         driver.findElement(By.name("q")).sendKeys("TO THE NEW");
         driver.findElement(By.name("btnK")).submit();
+        driver.close();
     }
 }
