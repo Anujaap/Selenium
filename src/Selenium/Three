@@ -1,0 +1,16 @@
+Difference between implicit & explicit wait along with syntax.
+
+
+
+ Implicit wait waits for a certain amount of time before throwing an exception
+ that it cannot find the element on the page.
+ We should note that implicit waits will be in place for the entire time the browser is open.
+ This means that any search for elements on the page could take the time the implicit wait is set for.
+
+ Syntax- driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+
+ Expilcit wait is more extendible in the means that you can set it up to wait for any condition you might like.
+ Usually, you can use some of the prebuilt ExpectedConditions to wait for elements to become
+ clickable, visible, invisible, etc.
+
+ Syntax- wait.until(ExpectedConditions.elementToBeClickable(By.id("someid")));
